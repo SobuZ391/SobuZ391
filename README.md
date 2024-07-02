@@ -23,3 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sobuz391&show_icons=true&locale=en" alt="sobuz391" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sobuz391x&theme=highcontrast)](https://git.io/streak-stats)
+
